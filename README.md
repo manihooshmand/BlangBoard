@@ -1,5 +1,5 @@
 # BlangBoard
-A very simple compiler for a very simple Programming Language named "BlangBoard" (BlackBoard Language) !
+A very simple compiler for a very simple programming language named "BlangBoard" (BlackBoard Language) !
 
 This is a compiler based on a self-written programming language "BlangBoard" ,
 which can do 4 main algebraic operations for two variables and write texts .
